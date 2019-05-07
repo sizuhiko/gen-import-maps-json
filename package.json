@@ -1,0 +1,28 @@
+{
+  "name": "gen-import-maps-json",
+  "version": "1.0.0",
+  "description": "JSON Generator for WICG/import-maps from package.json and package-lock.json",
+  "bin": {
+    "gen-import-maps-json": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sizuhiko/gen-import-maps-json.git"
+  },
+  "keywords": [
+    "import-maps"
+  ],
+  "author": "sizuhiko <sizuhiko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sizuhiko/gen-import-maps-json/issues"
+  },
+  "homepage": "https://github.com/sizuhiko/gen-import-maps-json#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {}
+}

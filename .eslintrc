@@ -1,0 +1,13 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2017,
+    "sourceType": "script"
+  },
+  "extends": ["eslint:recommended"],
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "no-console": "off"
+  }
+}
